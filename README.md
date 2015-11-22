@@ -13,12 +13,13 @@ npm install -g generator-automation
 Then generate your new project:
 
 ```bash
-yo generator-automation
+yo automation
 ```
 
-## Getting To Know Yeoman
+## Introduction
 
-Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he&#39;s very easy to work with. If you think he&#39;s too opinionated, he can be easily convinced. Feel free to [learn more about him](http://yeoman.io/).
+This will setup a project to easily integrate e2e tests via Selenium and write tests.
+
 
 ## License
 
